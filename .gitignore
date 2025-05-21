@@ -1,0 +1,40 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uilds/
+[Bb]uild/
+[Ll]ogs/
+UserSettings/
+Recordings/
+Assets/Samples/XR Interaction Toolkit/3.1.2/Starter Assets/
+
+# IDE and system-specific
+.vs/
+.vscode/
+*.csproj
+*.sln
+*.user
+*.suo
+*.tmp
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+
+# OS-generated
+.DS_Store
+Thumbs.db
+
+# Unity asset store tools
+Assets/Plugins/Editor/JetBrains*
+
+# Explicitly ignore specific large files over GitHub's limit
+Assets/My Assets/Real Stars Skybox/StarSkybox04/CubemapStars.cubemap
+Assets/My Assets/Real Stars Skybox/StarSkybox04Named/CubemapStarsNamed.cubemap
+Assets/My Assets/My Prefab/3D_Models/folds_in_metamorphic_rock.glb
+Assets/My Assets/My Prefab/3D_Models/alaskan_cliff_rock_Igneous.glb
+Assets/My Assets/My Prefab/3D_Models/sedimentary_rock_with_fossil Sedimentary.glb 
+ 
