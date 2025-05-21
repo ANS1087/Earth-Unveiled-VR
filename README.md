@@ -1,45 +1,85 @@
+
 # 🌍 Earth Unveiled: A VR Exploration
 
-**Earth Unveiled** is an immersive Virtual Reality experience developed using Unity and the Meta Quest SDK. This educational VR project guides users through the fundamental geological structures and features of our planet via interactive and engaging scenes.
+**Earth Unveiled** is an immersive Virtual Reality experience developed using **Unity** and the **Meta XR SDK**, optimized for **Meta Quest 2**. This educational VR project allows users to explore Earth's geological features through interactive and engaging scenes.
 
-## 🎮 Scenes Included
+🎥 **Watch the Demo Video:**  
+[![Earth Unveiled VR Demo](https://img.youtube.com/vi/SO6Zw6yI9pc/0.jpg)](https://youtu.be/SO6Zw6yI9pc?si=nNYh1paOvl_c1CqE)
 
-- **Main Menu** — Title: *Earth Unveiled: A VR Exploration*  
-  Navigate to different modules from a central interactive menu.
+---
 
-- **Scene 1: Earth Layers** — Title: *Earth Slices*  
-  Explore Earth's internal structure including the Crust, Mantle, Outer Core, and Inner Core with animated, slice-through models and pop-up information panels.
+## 🎮 Included Scenes
 
-- **Scene 2: Types of Rocks** — Title: *3 Types of Rock*  
-  Understand the three major rock types — Igneous, Sedimentary (with a fossil model), and Metamorphic — and learn how they form and transform.
+- 🏠 **Main Menu**  
+  Title screen and interactive hub to access various learning modules.
 
-- **Scene 3: Tectonic Plates** — Title: *Tectonic Plates*  
-  Visualize moving tectonic plates with animated 3D models to understand how Earth's surface shifts and causes earthquakes.
+- 🌍 **Scene 1: Earth Slices**  
+  Dive inside the planet to explore the Crust, Mantle, Outer Core, and Inner Core using animated slice-through models with educational pop-ups.
 
-## ✨ Features
+- 🪨 **Scene 2: 3 Types of Rocks**  
+  Learn about **Igneous**, **Sedimentary** (with fossil model), and **Metamorphic** rocks through interactive 3D visuals and transformation info.
 
-- Interactive VR UI using Meta's XR Toolkit
-- Realistic 3D models with touch/click-based interactions
-- Educational pop-ups and visual overlays for learning
-- Scene-to-scene transitions with intuitive VR controls
-- Fully compatible with Meta Quest 2 standalone devices
+- 🌋 **Scene 3: Tectonic Plates**  
+  Observe animated plate movement and learn how tectonic shifts cause earthquakes and shape the Earth’s surface.
+
+---
+
+## ✨ Key Features
+
+- ✅ Interactive UI using XR Intraction Toolkit
+- 🎮 Ray Interactor exploration
+- 🧠 Educational overlays and animated geology concepts
+- 🔄 Seamless transitions between scenes for structured learning
+- 🎯 Optimized for standalone Meta Quest 2/3 headset
+
+---
+
+## 🎓 Educational Objectives
+
+- Help learners **visualize complex geological structures** interactively
+- Enhance **STEM education** through engaging 3D models
+- Bridge the gap between **textbooks and tangible experience**
+- Make Earth Science fun, memorable, and immersive
+
+---
+
+## 🛠️ Built With
+
+- **Unity 6.0 (6000.0.48f1)**
+- 3D assets licensed under Creative Commons
+
+---
+
+## 👩‍🏫 Ideal For
+
+- K–12 and College Classrooms  
+- Science Exhibitions and Museums  
+- Geology Enthusiasts and Self-Learners
+
+---
 
 ## 📜 License
 
 This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)** license.  
-You are free to share and adapt the material for non-commercial purposes, provided you give appropriate credit.
+You may remix, adapt, and build upon the work non-commercially, and must give appropriate credit.
 
-🔗 [View License Details](https://creativecommons.org/licenses/by-nc/4.0/)
+🔗 [View Full License](https://creativecommons.org/licenses/by-nc/4.0/)
 
-> **Note**: Third-party assets used in this project retain their original licenses. See the credits section below for details.
+> **Note**: All third-party 3D assets retain their original licenses. See the section below for details.
 
-## 🧾 Asset Credits
+---
 
-This project uses the following 3D models licensed under Creative Commons:
+## 🎨 3D Model Credits
 
-- ["Earth"](https://skfb.ly/6TwGG) by **Akshat** — [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/)
-- ["Earth Core V2"](https://skfb.ly/6USXB) by **Ipay** — [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/)
-- ["Folds in metamorphic rock"](https://skfb.ly/prA8Q) by **Sara Carena** — [CC BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0/)
-- ["Alaskan Cliff Rock 1 Free"](https://skfb.ly/pqMy9) by **Titaniumwhitefx** — [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/)
-- ["Sedimentary Rock with Fossil"](https://skfb.ly/oqUOt) by **Chintan Purohit** — [CC BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0/)
-- ["Moving Tectonic Plates"](https://skfb.ly/oSw8D) by **eugenek818** — [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/)
+This project uses the following Creative Commons–licensed models:
+
+- **"Earth"** by Akshat – [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/)
+- **"Earth Core V2"** by Ipay – [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/)
+- **"Folds in metamorphic rock"** by Sara Carena – [CC BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0/)
+- **"Alaskan Cliff Rock 1 Free"** by Titaniumwhitefx – [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/)
+- **"Sedimentary Rock with Fossil"** by Chintan Purohit – [CC BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0/)
+- **"Moving Tectonic Plates"** by eugenek818 – [CC BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0/)
+
+---
+
+> **"Learning becomes limitless when knowledge meets immersion." – Earth Unveiled Team**
